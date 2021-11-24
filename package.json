@@ -24,7 +24,11 @@
     "web3": "^1.0.0-beta.34",
     "websocket": "^1.0.26"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "homepage": "http://kuluruvineeth.github.io/cmowe",
+
   "scripts": {
     "boxoffice": "truffle exec scripts/boxoffice.js --network ganache",
     "boxoffice-rinkeby": "truffle exec scripts/boxoffice.js --network rinkeby",
@@ -35,7 +39,9 @@
     "test": "jest scripts/test.js",
     "build": "next build",
     "heroku-postbuild": "npm run build",
-    "start": "node server.js"
+    "start": "node server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -54,7 +60,6 @@
   "bugs": {
     "url": "https://github.com/kuluruvineeth/cmowe/issues"
   },
-  "homepage": "https://github.com/kuluruvineeth/cmowe#readme",
   "engines": {
     "node": "8.11.3",
     "npm": "6.4.0"

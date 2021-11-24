@@ -49,9 +49,9 @@
   "sourceMap": "",
   "deployedSourceMap": "",
   "source": "pragma solidity ^0.4.24;\n\ninterface HeartBankCoinInterface {\n\n    function transferToAdmin(address holder, uint kiitos) external returns (bool);\n    \n    function balanceOf(address _who) external view returns (uint256);\n    \n}\n",
-  "sourcePath": "/home/kuluruvineeth/Downloads/BoxOffice/contracts/HeartBankCoinInterface.sol",
+  "sourcePath": "/home/kuluruvineeth/Downloads/cmowe/contracts/HeartBankCoinInterface.sol",
   "ast": {
-    "absolutePath": "/home/kuluruvineeth/Downloads/BoxOffice/contracts/HeartBankCoinInterface.sol",
+    "absolutePath": "/home/kuluruvineeth/Downloads/cmowe/contracts/HeartBankCoinInterface.sol",
     "exportedSymbols": {
       "HeartBankCoinInterface": [
         1513
@@ -284,7 +284,7 @@
     "src": "0:227:3"
   },
   "legacyAST": {
-    "absolutePath": "/home/kuluruvineeth/Downloads/BoxOffice/contracts/HeartBankCoinInterface.sol",
+    "absolutePath": "/home/kuluruvineeth/Downloads/cmowe/contracts/HeartBankCoinInterface.sol",
     "exportedSymbols": {
       "HeartBankCoinInterface": [
         1513
@@ -522,5 +522,5 @@
   },
   "networks": {},
   "schemaVersion": "2.0.1",
-  "updatedAt": "2021-11-19T06:54:02.922Z"
+  "updatedAt": "2021-11-24T08:05:47.723Z"
 }
