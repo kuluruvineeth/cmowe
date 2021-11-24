@@ -1,8 +1,20 @@
 # An Ethereum dApp to Decentralize the Film Industry and Empower Independent Filmmakers
 
+
+
+## Project solution proposal video:
+[Solution proposal]https://bafybeia56u3rhz4cfgoed3ci66pdrccuofplfa5rnsx7fdoisn3mplegrq.ipfs.infura-ipfs.io/
+
+
+
+
+
+
+
+
 To learn about the product features, design decisions, and security measures of this open source project in detail, read this accompanying report:
 
-https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf
+[Project report]https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf
 
 
 ## Rinkeby Testnet
@@ -160,6 +172,7 @@ After successful migration, you can get the deployed addresses by executing:
 ```
 $ truffle networks
 ```
+
 
 ## Help Contribute
 
