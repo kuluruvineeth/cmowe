@@ -6,8 +6,7 @@ https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf
 
 
 ## Rinkeby Testnet
-
-This alpha release is available at the URL [boxoffice.heartbank.studio](https://boxoffice.heartbank.studio). The underlying smart contracts reside on the Rinkeby Testnet and can be viewed on Etherscan. 
+ The underlying smart contracts reside on the Rinkeby Testnet and can be viewed on Etherscan. 
 
 ### Deployed Contracts
 
