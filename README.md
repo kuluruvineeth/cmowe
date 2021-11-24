@@ -3,7 +3,7 @@
 
 
 ## Project solution proposal video:
-[Solution proposal]https://bafybeia56u3rhz4cfgoed3ci66pdrccuofplfa5rnsx7fdoisn3mplegrq.ipfs.infura-ipfs.io/
+[Solution proposal](https://bafybeia56u3rhz4cfgoed3ci66pdrccuofplfa5rnsx7fdoisn3mplegrq.ipfs.infura-ipfs.io/)
 
 
 
@@ -14,7 +14,7 @@
 
 To learn about the product features, design decisions, and security measures of this open source project in detail, read this accompanying report:
 
-[Project report]https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf
+[Project report](https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf)
 
 
 ## Rinkeby Testnet
