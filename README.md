@@ -15,19 +15,16 @@
 ## To learn about the product features, design decisions, and security measures of this open source project in detail, read this accompanying report:
 
 [Project report](https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf)
-
-
-## Rinkeby Testnet
- The underlying smart contracts reside on the Rinkeby Testnet and can be viewed on Etherscan. 
+ 
 
 ### Deployed Contracts
 
-1. HeartBankCoin.sol: [0x7e4b1d67ffb30d45f46c33e40c60c77b0cd255aa](https://rinkeby.etherscan.io/address/0x7e4b1d67ffb30d45f46c33e40c60c77b0cd255aa)
-2. BoxOffice.sol: [0x0b54d5f632b7e1f0ccf96842263d4750560b9147](https://rinkeby.etherscan.io/address/0x0b54d5f632b7e1f0ccf96842263d4750560b9147)
-3. Oracle.sol: [0xa8bbbe439fa8cabe6a163d014e0e29c7697024c3](https://rinkeby.etherscan.io/address/0xa8bbbe439fa8cabe6a163d014e0e29c7697024c3)
-4. OracleLibrary.sol: [0x55a52c2e16c0b28443d3814fa607c9158e3a92ba](https://rinkeby.etherscan.io/address/0x55a52c2e16c0b28443d3814fa607c9158e3a92ba)
-5. OracleStorage.sol: [0xf4b186b23e3278144ed578d0627cfdc6181e9ee7](https://rinkeby.etherscan.io/address/0xf4b186b23e3278144ed578d0627cfdc6181e9ee7)
-6. OracleRegistry.sol: [0x3dbdf868f9bb14b83b83c82c74710865f6262326](https://rinkeby.etherscan.io/address/0x3dbdf868f9bb14b83b83c82c74710865f6262326)
+1. HeartBankCoin.sol: 0x7e4b1d67ffb30d45f46c33e40c60c77b0cd255aa
+2. BoxOffice.sol: 0x0b54d5f632b7e1f0ccf96842263d4750560b9147
+3. Oracle.sol: 0xa8bbbe439fa8cabe6a163d014e0e29c7697024c3
+4. OracleLibrary.sol: 0x55a52c2e16c0b28443d3814fa607c9158e3a92ba
+5. OracleStorage.sol: 0xf4b186b23e3278144ed578d0627cfdc6181e9ee7
+6. OracleRegistry.sol: 0x3dbdf868f9bb14b83b83c82c74710865f6262326
 
 ## Main Pages
 
@@ -157,20 +154,6 @@ Another useful script is `/scripts/boxoffice.js`, which automatically populates 
 
 ```
 $ npm run boxoffice
-```
-
-## How to Deploy to Rinkeby
-
-This project comes with a custom `Provider` that enables you to deploy to the Rinkeby Testnet yourself. Execute:
-
-```
-$ truffle migrate --network rinkeby
-```
-
-After successful migration, you can get the deployed addresses by executing:
-
-```
-$ truffle networks
 ```
 
 
