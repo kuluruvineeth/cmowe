@@ -1,12 +1,24 @@
 # An Ethereum dApp to Decentralize the Film Industry and Empower Independent Filmmakers
 
-To learn about the product features, design decisions, and security measures of this open source project in detail, read this accompanying article:
 
-https://medium.com/heartbankstudio/an-ethereum-dapp-to-decentralize-the-film-industry-and-empower-indie-filmmakers-82ad7e41a879
+
+## Project solution proposal video:
+[Solution proposal](https://bafybeia56u3rhz4cfgoed3ci66pdrccuofplfa5rnsx7fdoisn3mplegrq.ipfs.infura-ipfs.io/)
+
+
+
+
+
+
+
+
+## To learn about the product features, design decisions, and security measures of this open source project in detail, read this accompanying report:
+
+[Project report](https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf)
+
 
 ## Rinkeby Testnet
-
-This alpha release is available at the URL [boxoffice.heartbank.studio](https://boxoffice.heartbank.studio). The underlying smart contracts reside on the Rinkeby Testnet and can be viewed on Etherscan. 
+ The underlying smart contracts reside on the Rinkeby Testnet and can be viewed on Etherscan. 
 
 ### Deployed Contracts
 
@@ -23,27 +35,32 @@ There are four main pages, each mapped to corresponding URL routes for easy book
 
 ### Studio Home Page
 
-![Studio Home Page](https://raw.githubusercontent.com/thonly/BoxOffice/master/static/studio.png)
+![Studio Home Page](https://github.com/kuluruvineeth/cmowe/blob/master/screenshots/3.png)
 
 The studio home page displays all the film projects currently in development, of which users can buy tickets to watch (or re-sell) in advance at a discount. Project-wide stats are also tabulated and shown to perpetuate network effects.
 
 ### Make Movie Page
 
-![Make Movie Page](https://raw.githubusercontent.com/thonly/BoxOffice/master/static/make.png)
+![Make Movie Page](https://github.com/kuluruvineeth/cmowe/blob/master/screenshots/8.png)
 
 Here, filmmakers of any background can customize movie details to create ERC20 compatible tickets that are unique to each film. On the blockchain, this means a standard ERC20 smart contract is created for each project. 
 
 ### Movie Token Page
 
-![Movie Token Page](https://raw.githubusercontent.com/thonly/BoxOffice/master/static/movie.png)
+![Movie Token Page](https://github.com/kuluruvineeth/cmowe/blob/master/screenshots/12.png)
 
 After successful creation, anyone with an Ethereum wallet can visit this page to learn about a film project and pre-buy tickets. Project-specific stats are also collected and displayed to elicit excitement. 
 
 ### Movie Theater Page
 
-![Movie Theater Page](https://raw.githubusercontent.com/thonly/BoxOffice/master/static/theater.png)
+![Movie Theater Page](https://github.com/kuluruvineeth/cmowe/blob/master/screenshots/17.png)
 
 When the film is ready for commercial release, those with movie tickets can validate their ownership to access protected content. This page exemplifies how the blockchain securely verifies ticket possession.
+
+When the user click on the watch movie button, the background light is dimmed and he is taken to a theatre mode to display the film (Here we can enable our users to use their tokens to watch the film that has been uploaded).
+![Watch movie](https://github.com/kuluruvineeth/cmowe/blob/master/screenshots/19.png)
+
+
 
 ## How to Install
 
@@ -134,6 +151,7 @@ For convenience, the `/scripts/oracle.js` script can be used to mimic the functi
 ```
 $ npm run oracle
 ```
+## - NOTE: Remember to first run the 'npm run oracle' command to deploy the oracle contract so that the other components inside our webpage can run smoothly. 
 
 Another useful script is `/scripts/boxoffice.js`, which automatically populates the `BoxOffice` contract with dummy data:
 
@@ -154,6 +172,7 @@ After successful migration, you can get the deployed addresses by executing:
 ```
 $ truffle networks
 ```
+
 
 ## Help Contribute
 
