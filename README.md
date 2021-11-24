@@ -2,7 +2,7 @@
 
 To learn about the product features, design decisions, and security measures of this open source project in detail, read this accompanying report:
 
-![CMOWE Report](https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf)
+https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf
 
 
 ## Rinkeby Testnet
