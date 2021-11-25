@@ -13,7 +13,7 @@
 <img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/react.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/solidity.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/web3js.jpeg" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/wtg.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/wtg.png" width="300" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
 </p>
 
 
