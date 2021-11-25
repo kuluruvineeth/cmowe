@@ -5,6 +5,17 @@
 ## Project solution proposal video:
 [Solution proposal](https://bafybeia56u3rhz4cfgoed3ci66pdrccuofplfa5rnsx7fdoisn3mplegrq.ipfs.infura-ipfs.io/)
 
+## Tech Stack
+<p float="left">
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/infura.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/ipfs.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/nodejs.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/react.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/solidity.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/web3js.jpeg" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/kuluruvineeth/cmowe/blob/master/Images/wtg.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
+</p>
+
 
 
 
