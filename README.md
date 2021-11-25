@@ -28,7 +28,7 @@
 [Project report](https://github.com/kuluruvineeth/cmowe/blob/master/Mini%20Project%20Report.pdf)
  
 
-### Deployed Contracts
+### Deployed Contracts(Example)
 
 1. HeartBankCoin.sol: 0x7e4b1d67ffb30d45f46c33e40c60c77b0cd255aa
 2. BoxOffice.sol: 0x0b54d5f632b7e1f0ccf96842263d4750560b9147
